@@ -1,4 +1,4 @@
-const mobiteli = [
+
     {
       id: 1,
       brand: "Apple",
@@ -89,7 +89,7 @@ const mobiteli = [
       specification: "6.55-inch display, Snapdragon 8 Gen 1, 50MP camera",
       stores: ["Motorola Store", "Amazon", "Best Buy"]
     }
-  ];
+  
   
  
   
