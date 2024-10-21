@@ -1,0 +1,95 @@
+const mobiteli = [
+    {
+      id: 1,
+      brand: "Apple",
+      name: "iPhone 14 Pro",
+      price: 1200,
+      available: true,
+      specification: "6.1-inch display, A16 Bionic chip, 48MP camera",
+      stores: ["Apple Store", "Best Buy", "Amazon"]
+    },
+    {
+      id: 2,
+      brand: "Samsung",
+      name: "Galaxy S23",
+      price: 1100,
+      available: true,
+      specification: "6.2-inch display, Snapdragon 8 Gen 2, 50MP camera",
+      stores: ["Samsung Store", "Walmart", "Best Buy"]
+    },
+    {
+      id: 3,
+      brand: "Google",
+      name: "Pixel 8",
+      price: 900,
+      available: false,
+      specification: "6.2-inch display, Google Tensor G3, 50MP camera",
+      stores: ["Google Store", "Amazon"]
+    },
+    {
+      id: 4,
+      brand: "Xiaomi",
+      name: "Mi 12",
+      price: 700,
+      available: true,
+      specification: "6.28-inch display, Snapdragon 8 Gen 1, 50MP camera",
+      stores: ["Xiaomi Store", "AliExpress"]
+    },
+    {
+      id: 5,
+      brand: "OnePlus",
+      name: "OnePlus 11",
+      price: 800,
+      available: true,
+      specification: "6.7-inch display, Snapdragon 8 Gen 2, 50MP camera",
+      stores: ["OnePlus Store", "Amazon", "Best Buy"]
+    },
+    {
+      id: 6,
+      brand: "Huawei",
+      name: "P50 Pro",
+      price: 950,
+      available: false,
+      specification: "6.6-inch display, Kirin 9000, 50MP camera",
+      stores: ["Huawei Store", "AliExpress"]
+    },
+    {
+      id: 7,
+      brand: "Sony",
+      name: "Xperia 1 V",
+      price: 1000,
+      available: true,
+      specification: "6.5-inch display, Snapdragon 8 Gen 1, 12MP camera",
+      stores: ["Sony Store", "Amazon", "Best Buy"]
+    },
+    {
+      id: 8,
+      brand: "Nokia",
+      name: "G50",
+      price: 400,
+      available: true,
+      specification: "6.82-inch display, Snapdragon 480, 48MP camera",
+      stores: ["Nokia Store", "Walmart", "Amazon"]
+    },
+    {
+      id: 9,
+      brand: "Oppo",
+      name: "Find X5 Pro",
+      price: 850,
+      available: false,
+      specification: "6.7-inch display, Snapdragon 8 Gen 1, 50MP camera",
+      stores: ["Oppo Store", "AliExpress"]
+    },
+    {
+      id: 10,
+      brand: "Motorola",
+      name: "Edge 40",
+      price: 750,
+      available: true,
+      specification: "6.55-inch display, Snapdragon 8 Gen 1, 50MP camera",
+      stores: ["Motorola Store", "Amazon", "Best Buy"]
+    }
+  ];
+  
+ 
+  
